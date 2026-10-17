@@ -1,0 +1,14 @@
+        HOSPITAL BED DAILY REPORT
+ bed_no      ward  bed_type    status
+    101   General    Normal  Occupied
+    102   General    Normal  Occupied
+    103       ICU       ICU  Occupied
+    104       ICU       ICU  Reserved
+    105 Emergency Emergency Available
+    106   General    Normal  Occupied
+    107       ICU    Normal Available
+    108   General    Normal  Occupied
+    109   General    Normal  Occupied
+
+Total Beds: 9
+Available Beds: 2             
